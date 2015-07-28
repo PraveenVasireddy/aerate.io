@@ -1,7 +1,7 @@
 # aerate.io
 
 aerate.io Development
-***** SETUP : 
+** SETUP :** 
 - Install node.js (Download and install)
     https://nodejs.org/download/
 - Install MongoDB:
